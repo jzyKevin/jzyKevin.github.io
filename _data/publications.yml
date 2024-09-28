@@ -8,3 +8,9 @@ main:
     code: https://github.com/JHW5981/AceParse
     image: ./assets/img/paper1.png
     notes: Under review
+
+  - title: Revisiting Network Value: Sublinear Knowledge Law
+    authors: Xinbing Wang, Luoyi Fu, Huquan Kang, Zhouyang Jin, Lei Zhou, Chenghu Zhou
+    conference_short: arXiv 
+    conference: arXiv
+    pdf: https://arxiv.org/pdf/2304.14084
