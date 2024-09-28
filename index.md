@@ -14,7 +14,7 @@ Currently, I am investigating the **integration of LLMs with diverse domains and
 
 ### 🔭 Research Interests
 
-- **Large Language Models:** Embeddings, Machine Reading Comprehension, Fine-tuning Strategies
+- **Large Language Models (LLMs):** Embeddings, Machine Reading Comprehension, Fine-tuning Strategies
 - **Retrieval-Augmented Generation (RAG):** Information Retrieval & Language Models, End-to-end RAG Models, the Evaluation of RAG, and Cross-domain RAG
 - **Natural Language Processing (NLP):** Information Extraction, Text Generation, Semantic Embedding, Knowledge Discovery
 - **Graph Network Analysis:** Graph Compression, Graph Isomorphism
