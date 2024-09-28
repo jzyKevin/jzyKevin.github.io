@@ -30,7 +30,7 @@ I am open to collaboration with like-minded researchers in related fields. Addit
 
 ## ✨ News
 
-- **[Sept. 2024]** 🌱 Our first version of the **Idea Reader** has been launched for internal testing. (Subsequent updates will be continuously improved based on feedback from the internal test!)
+- **[Sept. 2024]** 🌱 Our first version of the **Idea Searcher** has been launched for internal testing. (Subsequent updates will be continuously improved based on feedback from the internal test!)
 
 {% include_relative _includes/publications.md %}
 
