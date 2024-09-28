@@ -10,7 +10,7 @@ main:
     notes: Under review
 
   - title: "Revisiting Network Value: Sublinear Knowledge Law"
-    authors: Xinbing Wang, Luoyi Fu, Huquan Kang, Zhouyang Jin, Lei Zhou, Chenghu Zhou
+    authors: Xinbing Wang, Luoyi Fu, Huquan Kang, <strong>Zhouyang Jin</strong>, Lei Zhou, Chenghu Zhou
     conference_short: arXiv 
     conference: arXiv
     image: ./assets/img/paper2.png
