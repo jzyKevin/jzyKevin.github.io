@@ -13,4 +13,5 @@ main:
     authors: Xinbing Wang, Luoyi Fu, Huquan Kang, Zhouyang Jin, Lei Zhou, Chenghu Zhou
     conference_short: arXiv 
     conference: arXiv
+    image: ./assets/img/paper2.png
     pdf: https://arxiv.org/pdf/2304.14084
