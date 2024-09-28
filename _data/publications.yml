@@ -1,6 +1,6 @@
 main:
 
-  - title: AceParse: A Comprehensive Dataset with Diverse Structured Texts for Academic Literature Parsing
+  - title: "AceParse: A Comprehensive Dataset with Diverse Structured Texts for Academic Literature Parsing"
     authors: Huawei Ji, Cheng Deng, Bo Xue, <strong>Zhouyang Jin</strong>, Jiaxin Ding, Xiaoying Gan, Luoyi Fu, Xinbing Wang, Chenghu Zhou
     conference_short: arXiv (under review)
     conference: 2025 IEEE International Conference on Acoustics, Speech, and Signal Processing <strong>(ICASSP)</strong>, 2025.
