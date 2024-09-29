@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-### 👋 Hi there! I'm **Zhouyang Jin**
+### 👋 Hi there! I'm **Zhouyang Jin (金舟扬)**
 
 I'm a second-year Ph.D. student at the School of Electronic Information and Electrical Engineering, **Shanghai Jiao Tong University**, majoring in Computer Science and Technology. My research interests are primarily focused on **Large Language Models (LLMs)**, with a particular emphasis on **Retrieval-Augmented Generation (RAG)**, **Information Retrieval**, **Graph Network Analysis**, and **Natural Language Processing (NLP)**. I hold a Bachelor of Science degree in Information and Computational Science from the School of Mathematics at Nanjing University of Aeronautics and Astronautics.
 
