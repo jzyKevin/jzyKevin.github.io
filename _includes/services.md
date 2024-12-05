@@ -4,6 +4,7 @@
 
 - ACM Transactions on Knowledge Discovery from Data (TKDD) 
 - IEEE Transactions on Parallel and Distributed Systems (TPDS)
+- IEEE Transactions on Knowledge and Data Engineering (TKDE)
 
 #### Conference Reviewer
 
