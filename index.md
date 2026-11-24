@@ -6,7 +6,7 @@ layout: homepage
 
 ### 👋 Hi there! I'm **Zhouyang Jin (金舟扬)**
 
-I'm a second-year Ph.D. student at the School of Electronic Information and Electrical Engineering, **Shanghai Jiao Tong University**, majoring in Computer Science and Technology. My research interests are primarily focused on **Large Language Models (LLMs)**, with a particular emphasis on **Retrieval-Augmented Generation (RAG)**, **Information Retrieval**, **Graph Network Analysis**, and **Natural Language Processing (NLP)**. I hold a Bachelor of Science degree in Information and Computational Science from the School of Mathematics at Nanjing University of Aeronautics and Astronautics.
+I'm a second-year Ph.D. student at the School of Electronic Information and Electrical Engineering, **Shanghai Jiao Tong University**, majoring in Computer Science and Technology. My research interests are primarily focused on **Large Language Models (LLMs)**, with a particular emphasis on **Retrieval-Augmented Generation (RAG)**, **Information Retrieval**, and **Graph Network Analysis**. I hold a Bachelor of Science degree in Information and Computational Science from the School of Mathematics at Nanjing University of Aeronautics and Astronautics.
 
 ### 📝 Current Work
 
@@ -16,17 +16,18 @@ Currently, I am investigating the **integration of LLMs with diverse domains and
 
 - **Large Language Models (LLMs):** Embeddings, Machine Reading Comprehension, Fine-tuning Strategies
 - **Retrieval-Augmented Generation (RAG):** Information Retrieval & Language Models, End-to-end RAG Models, the Evaluation of RAG, and Cross-domain RAG
-- **Natural Language Processing (NLP):** Information Extraction, Text Generation, Semantic Embedding, Knowledge Discovery
 - **Graph Network Analysis:** Graph Compression, Graph Isomorphism
 - **...**
 
 ### 📫 How to Reach Me
 
-Email: **sjtujzy@gmail.com**
+Preferred email: **[sjtu0830032@sjtu.edu.cn](mailto:sjtu0830032@sjtu.edu.cn)**
+
+Alternative email: **[sjtujzy@gmail.com](mailto:sjtujzy@gmail.com)**
 
 ### 🤝 Collaboration
 
-I am open to collaboration with like-minded researchers in related fields. Additionally, I am very interested in **cutting-edge industry developments** and would love to engage with professionals from the corporate world.
+I am open to research collaborations and am currently seeking **off-cycle industry internships** in **AI Search**, **LLM Agents**, and **LLM Post-training**. Please feel free to contact me about relevant opportunities.
 
 ## ✨ News
 
