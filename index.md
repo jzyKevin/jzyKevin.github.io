@@ -6,7 +6,7 @@ layout: homepage
 
 ### 👋 Hi there! I'm **Zhouyang Jin (金舟扬)**
 
-I'm a fourth-year Ph.D. student at the School of Computer Science, **Shanghai Jiao Tong University**, majoring in Computer Science and Technology. My research interests are primarily focused on **Large Language Models (LLMs)**, with a particular emphasis on **Retrieval-Augmented Generation (RAG)**, **Information Retrieval**, and **Graph Network Analysis**. I hold a Bachelor of Science degree in Information and Computational Science from the School of Mathematics at Nanjing University of Aeronautics and Astronautics.
+I'm a fourth-year Ph.D. student at the School of Computer Science, **Shanghai Jiao Tong University**, majoring in Computer Science and Technology. My research interests focus on **Large Language Models (LLMs)**, **Information Retrieval**, and **LLM Agents (LLM4OR and Agent Self-evolution)**. I hold a Bachelor of Science degree in Information and Computational Science from the School of Mathematics at Nanjing University of Aeronautics and Astronautics.
 
 ### 📝 Current Work
 
