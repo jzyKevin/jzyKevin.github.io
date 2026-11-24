@@ -8,16 +8,11 @@ layout: homepage
 
 I'm a fourth-year Ph.D. student at the School of Computer Science, **Shanghai Jiao Tong University**, majoring in Computer Science and Technology. My research interests focus on **Large Language Models (LLMs)**, **Information Retrieval**, and **LLM Agents (LLM4OR and Agent Self-evolution)**. I hold a Bachelor of Science degree in Information and Computational Science from the School of Mathematics at Nanjing University of Aeronautics and Astronautics.
 
-### 📝 Current Work
-
-Currently, I am investigating the **integration of LLMs with diverse domains and techniques** to not only enhance the capabilities of LLMs, such as RAG, but also to leverage their potential in addressing challenges within other fields. This approach aims to refine domain-specific models and foster mutual advancement between LLMs and these specialized areas.
-
 ### 🔭 Research Interests
 
-- **Large Language Models (LLMs):** Embeddings, Machine Reading Comprehension, Fine-tuning Strategies
-- **Retrieval-Augmented Generation (RAG):** Information Retrieval & Language Models, End-to-end RAG Models, the Evaluation of RAG, and Cross-domain RAG
-- **Graph Network Analysis:** Graph Compression, Graph Isomorphism
-- **...**
+- **Large Language Models (LLMs):** Embedding Analysis, Post-training (SFT, RL)
+- **Information Retrieval:** Embedding Models, Rerankers, Search Agents
+- **LLM Agents:** LLM4OR (Data Selection and Cleaning, Self-evolution)
 
 ### 📫 How to Reach Me
 
