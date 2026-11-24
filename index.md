@@ -6,13 +6,15 @@ layout: homepage
 
 ### 👋 Hi there! I'm **Zhouyang Jin (金舟扬)**
 
-I'm a fourth-year Ph.D. student at the School of Computer Science, **Shanghai Jiao Tong University**, majoring in Computer Science and Technology. My research interests focus on **Large Language Models (LLMs)**, **Information Retrieval**, and **LLM Agents (LLM4OR and Agent Self-evolution)**. I hold a Bachelor of Science degree in Information and Computational Science from the School of Mathematics at Nanjing University of Aeronautics and Astronautics.
+I'm a fourth-year Ph.D. student at the School of Computer Science, **Shanghai Jiao Tong University**, majoring in Computer Science and Technology. I hold a Bachelor of Science degree in Information and Computational Science from the School of Mathematics at Nanjing University of Aeronautics and Astronautics.
+
+My research explores how **LLM agents** can acquire useful information, learn from high-quality data, and improve through verification and feedback. This connects my interests in **information retrieval**, **LLM post-training**, and **agent self-evolution**, with a particular focus on **LLM4OR**.
 
 ### 🔭 Research Interests
 
-- **Large Language Models (LLMs):** Embedding Analysis, Post-training (SFT, RL)
-- **Information Retrieval:** Embedding Models, Rerankers, Search Agents
-- **LLM Agents:** LLM4OR (Data Selection and Cleaning, Self-evolution)
+- **Large Language Models (LLMs):** Embedding analysis; post-training through supervised fine-tuning (SFT) and reinforcement learning (RL).
+- **Information Retrieval:** Embedding models, rerankers, and search agents for acquiring useful information.
+- **LLM Agents:** LLM4OR, with a focus on data selection and cleaning, data construction, LLM verifiers, and agent self-evolution.
 
 ### 📫 How to Reach Me
 
@@ -22,7 +24,7 @@ Alternative email: **[sjtujzy@gmail.com](mailto:sjtujzy@gmail.com)**
 
 ### 🤝 Collaboration
 
-I am open to research collaborations and am currently seeking **off-cycle industry internships** in **AI Search**, **LLM Agents**, and **LLM Post-training**. Please feel free to contact me about relevant opportunities.
+I welcome research collaborations in these areas and am currently seeking **off-cycle industry internships** in **AI Search**, **LLM Post-training**, and **LLM Agents**. Please feel free to contact me about relevant research or internship opportunities.
 
 ## ✨ News
 
