@@ -1,17 +1,24 @@
 main:
 
   - title: "Source and Canvas Readouts Redistribute with Lexical Commitment in Masked Diffusion Language Models"
+    authors: <strong>Zhouyang Jin</strong>, Bo Xue, Jiaxin Ding, Luoyi Fu, Xinbing Wang
     conference: NeurIPS 2026 Workshop on Linguistic Principles for Foundation Models.
+    pdf: https://openreview.net/pdf?id=rcv7SUuxm8
+    image: ./assets/img/nips.png
     notes: Oral
 
   - title: "Reachability-state encoding: bridging tradeoffs between the minimal storage and the fastest query for reachability query"
     authors: Huquan Kang, Xing-Li Wang, <strong>Zhouyang Jin</strong>, Yu-Ang Ding, Yi-Ming Liu, Luoyi Fu, Jiaxin Ding, Xinbing Wang
     conference: Frontiers of Computer Science, 20(10).
+    page: https://journal.hep.com.cn/fcs/EN/10.1007/s11704-025-50122-8
+    image: ./assets/img/Reachability.png
     notes: CCF B
 
   - title: "GRAND-HC: Graph-Refined Author Name Disambiguation"
     authors: Yuanhao Sun*, <strong>Zhouyang Jin*</strong>, Yi Xu, Luoyi Fu, Jiaxin Ding, Xiaoying Gan, Xinbing Wang, Chenghu Zhou (*Equal contribution)
     conference: Intelligent Data Analysis.
+    pdf: https://arxiv.org/pdf/2609.01636
+    image: ./assets/img/GRAND.png
     notes: CCF C · Co-first author
 
   - title: "AceParse: A Comprehensive Dataset with Diverse Structured Texts for Academic Literature Parsing"
